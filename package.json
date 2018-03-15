@@ -1,0 +1,22 @@
+{
+  "name": "hostals",
+  "version": "1.0.0",
+  "description": "an app to manage hostals",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/esaraviam/hostels.git"
+  },
+  "author": "Esteban Saravia @esaraviam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esaraviam/hostels/issues"
+  },
+  "homepage": "https://github.com/esaraviam/hostels#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
